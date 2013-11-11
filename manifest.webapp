@@ -1,0 +1,1 @@
+{ "name": "DonaGo", "description": "An app for connecting Food donors to people in need.", "launch_path": "/index.html", "icons": { "128": "/img/donate.png" }, "developer": { "name": "Team-Unify", "url": "#" }, "default_locale": "en" }
